@@ -15,4 +15,4 @@ Your users should be able to:
 
 ## Solution link
 
-![View the solution here](https://order-summary-frontend-mentor-io-solutions.vercel.app/)
+!View the solution here(https://order-summary-frontend-mentor-io-solutions.vercel.app/)
