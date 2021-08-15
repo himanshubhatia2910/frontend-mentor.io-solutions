@@ -14,3 +14,5 @@ Your users should be able to:
 - See hover states for interactive elements
 
 ## Solution link
+
+![View the solution here](https://order-summary-frontend-mentor-io-solutions.vercel.app/)
